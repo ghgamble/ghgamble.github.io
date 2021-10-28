@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[385],{1167:function(g){g.exports=JSON.parse('{"allTagsPath":"/ghgamble.github.io/blog/tags","slug":"/ghgamble.github.io/blog/tags/greetings","name":"greetings","count":1,"permalink":"/ghgamble.github.io/blog/tags/greetings"}')}}]);
