@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[986],{5581:function(s){s.exports=JSON.parse('{"allTagsPath":"/ghgamble.github.io/blog/tags","slug":"/ghgamble.github.io/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/ghgamble.github.io/blog/tags/docusaurus"}')}}]);
